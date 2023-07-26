@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flight Search</string>
+    <string name="back_button">Back</string>
+    <string name="search_placeholder">Search</string>
+    <string name="no_search_results">Oops!\nNo flights with the code or name found in the database.</string>
+    <string name="favorite_routes">Favorite routes</string>
+</resources>
